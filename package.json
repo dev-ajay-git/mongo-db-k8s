@@ -1,15 +1,7 @@
-
-### **package.json:**
-
-This file is automatically created when you run `npm init`. Ensure it has the dependencies `express` and `mongoose`.
-
-Example:
-
-```json
 {
   "name": "my-mongo-app",
   "version": "1.0.0",
-  "description": "A simple Node.js app using MongoDB",
+  "description": "A simple Node.js app with MongoDB",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
